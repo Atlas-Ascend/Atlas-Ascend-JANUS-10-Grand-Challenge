@@ -1,147 +1,110 @@
 # JANUS-10 Live Competition Register
 
-**Verification snapshot:** 2026-09-08, America/Los_Angeles.  
-**Policy:** Re-check the official rules immediately before registration lock, product lock, and final submission. Deadlines, prize tables and categories can change.
-
-The canonical ten are selected for prize value, fit, current activity, and entrant viability. Student-only listings with larger banner numbers are intentionally rejected.
+**Verification snapshot:** 2026-09-09, America/Los_Angeles.  
+**Policy:** Re-check official rules immediately before registration lock and final submission. Competition requirements outrank internal architecture.
 
 ## 01 — AWS Agents for Humans Hackathon
-
 - Child: `JANUS-Human-Admin-Zero`
-- Organizer: Amazon Web Services
-- Format: Online / public
-- Prize: $40,000 cash
-- Deadline: 2026-09-14 5:00 PM PDT
-- Core requirement: Build an AI agent using the Strands Agents SDK that handles repetitive human tasks.
-- Win thesis: eliminate administrative burden with a governed, auditable agent that acts instead of merely chats.
-- Official: https://agents-for-humans.devpost.com/
-- Eligibility state: PASS subject to entrant completing official registration.
+- Deadline: **2026-09-14 5:00 PM PDT**
+- Prize surface: **$40,000 cash**
+- Required technology: Strands Agents SDK; AWS account required.
+- Product: governed autonomous personal-administration workforce.
+- Official: https://agentsforhumans.devpost.com/
+- Current state: DEPLOYED; sponsor-specific proof + submission package remain.
 
-## 02 — Build, Ship, Shape: Amazon Developer Hackathon
-
+## 02 — CALL-E: Your Code Is Calling
 - Child: `HERMES-Public-Access-Relay`
-- Organizer: Amazon Developer
-- Format: Online / public
-- Prize: $138,000 cash; additional AWS-credit value advertised separately
-- Deadline: 2026-10-23 12:00 PM PDT
-- Tracks: Fire TV, Alexa+, Bee, Ring
-- Selected lane: Alexa+ first; Fire TV is reserve if rules/product fit proves stronger.
-- Win thesis: a public-access relay that turns complex digital services into accessible conversational action and information flows.
-- Official: https://amazonappdev2026.devpost.com/
-- Eligibility state: PASS for age-of-majority individuals in allowed territories.
+- Deadline: **2026-09-14 11:45 PM SGT**
+- Prize surface: **$10,000 cash**
+- Required technology: CALL-E phone-call agent runtime/API/SDK; final project requirements include public source and the organizer's community submission path.
+- Product: consent-bounded public-access phone work relay.
+- Official: https://call-e.devpost.com/
+- Current state: DEPLOYED in deterministic mode; real authorized CALL-E execution remains the critical external proof gate.
 
-## 03 — Agentic Cinema: The Blockbuster Hackathon
-
+## 03 — AssemblyAI Voice Agent Hackathon
 - Child: `APOLLO-Studio-Operations-Intelligence`
-- Organizer: Google Cloud / Devpost partner tracks
-- Format: Online / public
-- Prize: $75,000 cash
-- Deadline: 2026-09-09 2:00 PM PDT
-- Requirement: Gemini/Google Cloud agent plus an eligible partner integration for a media/entertainment workflow.
-- Win thesis: a studio operations intelligence agent that turns fragmented production operations into executable, observable workflows.
-- Official: https://agentic-cinema.devpost.com/
-- Eligibility state: PASS subject to final selected partner-track compliance.
-- Priority: P0 — nearest deadline.
+- Build window: **2026-09-01 through 2026-09-30**
+- Prize surface: **$10,000 total ($5,000 cash + $5,000 AssemblyAI credits)**
+- Required technology: AssemblyAI.
+- Product: live voice-to-studio-operations compiler.
+- Official: https://lablab.ai/ai-hackathons/assemblyai-voice-agent-hackathon
+- Current state: DEPLOYED; real streaming transcription evidence remains.
 
-## 04 — RevenueCat Shipaton 2026
+## 04 — AI Infra Summit Hackathon
+- Child: `ATHENA-AI-Infrastructure-Command-Plane`
+- Online build: **2026-09-10 through 2026-09-16**
+- Submission close: **2026-09-16 18:30 UTC**
+- Product: governed AI-infrastructure reliability control plane.
+- Official: https://lablab.ai/ai-hackathons/ai-infra-summit-hackathon
+- Current state: DEPLOYED deterministic failure→repair→verification vertical; event sponsor track/partner integration remains to be locked after kickoff.
 
-- Child: `ATHENA-PeaceGraph`
-- Organizer: RevenueCat
-- Format: Online / public
-- Advertised campaign cash pool: $740,000
-- Deadline: 2026-09-30 11:45 PM PDT
-- Selected lane: RevenueCat Peace Prize + any compatible general/category prize.
-- Requirement: ship a brand-new mobile app to an eligible app store during the competition window and integrate RevenueCat for purchase and/or eligible monetization behavior.
-- Win thesis: mobile conflict intelligence that converts disputes into transparent evidence graphs, shared-interest surfaces, candidate resolution pathways and auditable outcomes.
-- Official: https://revenuecat-shipaton-2026.devpost.com/
-- Eligibility state: PASS, but app-store release timing is a hard implementation gate.
+## 05 — IBM Bob 2.0 Hackathon
+- Child: `HEIMDALL-Machine-Governor`
+- Build: **2026-09-25 through 2026-09-27**
+- Submission close: **2026-09-27 15:00 UTC**
+- Prize surface: **$10,000**
+- Required technology: IBM Bob 2.0 must materially participate in the judged event build.
+- Product: policy-bounded machine execution governor.
+- Official: https://lablab.ai/ai-hackathons/ibm-bob-2-hackathon
+- Current state: pre-event baseline DEPLOYED; Bob-specific judged delta must be produced during the event.
 
-## 05 — Nebius x NVIDIA Global AI Hackathon
-
-- Child: `HEPHAESTUS-Agent-Forge`
-- Organizer: Nebius + NVIDIA
-- Format: Online / public
-- Prize: $50,000 cash plus hardware/other awards
-- Deadline: 2026-10-30 10:00 AM PDT
-- Required stack: meaningful Nebius Token Factory or AI Cloud use plus NVIDIA model/technology requirements from current rules.
-- Selected lane: Coding and Agentic Engineering / Best Apps and Agents, final category locked after rules snapshot.
-- Win thesis: a bounded agentic engineering forge that transforms build intent into reproducible implementation, verification and deployment packets.
-- Official: https://nebiusglobalaihackathon.devpost.com/
-- Eligibility state: PASS for adults in allowed territories.
-
-## 06 — ARC Prize 2026 — Paper Track
-
-- Child: `THOTH-ARC-Reasoning-Lab`
-- Organizer: ARC Prize / Kaggle
-- Format: Online research competition / Featured Hackathon
-- Advertised pool: $450,000
-- Deadline: 2026-11-09 11:59 PM UTC
-- Requirement: research paper/write-up with linked public project/notebook and qualifying ARC code-submission linkage under current rules.
-- Win thesis: an auditable reasoning laboratory for hypothesis generation, abstraction, program induction and failure analysis rather than black-box answer generation.
-- Official: https://www.kaggle.com/competitions/arc-prize-2026-paper-track
-- Eligibility state: PASS subject to Kaggle competition rules and account registration.
+## 06 — Build, Ship, Shape: Amazon Developer Hackathon — Alexa+
+- Child: `HESTIA-Hearth-Agentic-Control-Plane`
+- Deadline: **2026-10-23 12:00 PM PDT**
+- Total competition prize surface: **$138,000 cash**
+- Selected track: Alexa+ / MCP; organizer resources explicitly permit a simulated Alexa+ experience using a web app and require open MCP/Agent Skill patterns.
+- Product: governed MCP command plane with bounded execution and proof receipts.
+- Official: https://amazonappdev2026.devpost.com/
+- Current state: DEPLOYED after production compile repair; Alexa+/approved simulation end-to-end proof remains.
 
 ## 07 — OpenCV AI Competition 2026, powered by AWS
-
 - Child: `ARGUS-FieldVision`
-- Organizer: OpenCV / AWS
-- Format: Online / public
-- Prize: $20,250 cash advertised on current Devpost listing
-- Deadline: 2026-10-27 (official portal time controls)
-- Requirement: substantive OpenCV 5 use plus meaningful AWS component.
-- Win thesis: an agentic field-vision system that converts visual evidence into grounded observations, decisions, actions and proof receipts.
+- Deadline: **2026-10-26 11:45 PM PDT** on current Devpost listing; final project page also describes Oct 26 11:59 PM Pacific, so portal deadline controls.
+- Prize surface: **$20,250 cash** on current Devpost listing.
+- Hard requirements: substantive OpenCV 5 analysis + meaningful AWS component.
+- Product: agentic field-vision inspection system.
 - Official: https://opencv26.devpost.com/
-- Eligibility state: PASS for adults in allowed territories.
+- Current state: OpenCV 5 runtime, causal agent behavior, API/web deployment and smoke proof PASS; meaningful AWS execution and final evaluation bundle remain.
 
-## 08 — CALL-E: Your Code Is Calling
+## 08 — Decentralize AI Hackathon
+- Child: `ARTEMIS-Local-Sovereign-AI`
+- Round 1: **2026-06-02 through 2026-10-31**
+- Prize surface: **$51,750+ mixed cash/compute/storage rewards across rounds**
+- Organizers: HackerNoon × Nosana × Arweave × MEXC.
+- Product: sovereign execution fabric separating private custody, bounded egress, decentralized compute and provenance.
+- Official: https://decentralizeai.tech/
+- Current state: executable sovereign-boundary product implemented; production deployment repair in progress; real Nosana/Arweave/Ollama evidence remains.
 
-- Child: `IRIS-CallRelay`
-- Organizer: CALL-E / Devpost
-- Format: Online / public
-- Prize: $10,000 cash
-- Deadline: 2026-09-14 11:45 PM SGT; convert and verify locally before final submission.
-- Requirement: build an AI agent that makes real phone calls.
-- Win thesis: an exception-resolution relay that turns an unresolved workflow into a governed outbound call, captures structured outcome/evidence, and returns it to the originating process.
-- Official: https://call-e.devpost.com/
-- Eligibility state: PASS subject to current territory rules.
+## 09 — Nebius × NVIDIA Global AI Hackathon
+- Child: `VULCAN-Agentic-Engineering-Foundry`
+- Deadline: **2026-10-30 10:00 AM PDT**
+- Prize surface: **$50,000 cash**
+- Product: multi-candidate engineering tournament with executable evaluation, repair, verified-only promotion and proof.
+- Official: https://nebiusglobalaihackathon.devpost.com/
+- Current state: TEST-GATED / DEPLOYED; real Nebius/NVIDIA candidate-generation proof remains.
 
-## 09 — BLI Legal Tech Hackathon 2
+## 10 — WeAreDevelopers Hackathon
+- Child: `MAAT-Universal-CaseGraph`
+- Online build: **2026-09-18 through 2026-09-24**
+- Submission close: **2026-09-24 5:00 PM PDT**
+- Participation: fully online is explicitly supported; everyone is welcome under current event page.
+- Product: Universal CaseGraph problem→evidence→dependency→action→proof operating model.
+- Official: https://lablab.ai/ai-hackathons/wearedevelopers-hackathon
+- Current state: v0.2.0 SDLC-hardened baseline DEPLOYED; kickoff challenge/track details must be locked and an event-specific delta built before submission.
 
-- Child: `THEMIS-Legal-Proof-Engine`
-- Organizer: Blockchain Legal Institute
-- Format: Online
-- Advertised value: sources currently report ~$50,000 in bounties/support, while some directories report lower cash-only totals. Official bounty table controls.
-- Competition window: through approximately 2026-11-01; official portal controls exact submission deadline.
-- Domains: legal tech, RegTech, compliance, finance, blockchain/AI.
-- Win thesis: evidence-first legal/compliance reasoning that builds a provenance graph, separates assertions from proof, detects missing support and produces reviewable decision packets.
-- Official hub: https://bli.tools/hackathon/
-- Eligibility state: PASS from current open-event listings; full DoraHacks entrant rules must be snapshotted in child repo before build lock.
+# Superseded Historical Targets
 
-## 10 — Algorand Global x402 Challenge
+The following campaign candidates are no longer canonical JANUS-10 entries and must not be treated as active lanes:
+- Agentic Cinema for APOLLO — superseded because its development-assistance rules conflict with this workflow; APOLLO moved to AssemblyAI.
+- `ATHENA-PeaceGraph` / RevenueCat.
+- `HEPHAESTUS-Agent-Forge`.
+- `THOTH-ARC-Reasoning-Lab`.
+- `IRIS-CallRelay`.
+- `THEMIS-Legal-Proof-Engine`.
+- `PLUTUS-x402-Agent-Commerce`.
 
-- Child: `PLUTUS-x402-Agent-Commerce`
-- Organizer: Algorand Foundation
-- Format: Online global build challenge / hackathon
-- Prize: $100,000 USD top-five pool + 500,000 ALGO distributed across top leaderboard endpoints
-- Application deadline listing: 2026-09-30; official challenge continues measurement/finalist selection into early October.
-- Requirement: launch a paid API endpoint on Algorand MainNet using the x402 flow, settle real payment(s), return the paid response, appear in the Bazaar catalog and drive real usage/volume.
-- Win thesis: machine-native commerce infrastructure where agents discover, purchase, invoke and verify useful API capabilities with proof-of-payment and proof-of-service.
-- Official: https://algorand.co/global-x402-challenge
-- Eligibility state: PASS subject to official rules and any wallet/territory constraints.
+# Campaign Law
 
-# Rejected High-Banner Targets
+`ONE ENTRY → ONE CHILD REPO → ONE DISTINCT COMPETITION → ONE RULES LEDGER → ONE PROOF CHAIN.`
 
-These are **not** part of the canonical ten despite large advertised pools:
-
-- GatewayHacks 2026 — >$1M banner, but student-only.
-- Global Innovation Build Challenge V2 — >$150K banner, student-only.
-- TLN Hackathon 2026 — large banner value, student-only.
-- AI Builders Hackathon — student-only.
-- VoltHacks — student-only.
-- All Things Agentic — $180K but submission period ended Aug 31, 2026.
-- Pokémon TCG AI Battle Challenge Strategy — large pool but new-entry window already closed.
-- AWS Trainium Frontier — current primary listing shows registration/competition closed; stale cached pages still say join.
-
-# Target Replacement Law
-
-If any canonical target fails eligibility, registration, rule-fit, or deadline verification, do not force the product into it. Mark that target `DISQUALIFIED_BEFORE_BUILD`, preserve the product thesis, and replace the competition from a currently live reserve list. Competition fit is mutable; child product identity is versioned and explicit.
+No entry is promoted to competition-complete until required sponsor technology has real execution evidence and the final submission receipt exists.
