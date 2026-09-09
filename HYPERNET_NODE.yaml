@@ -1,0 +1,8 @@
+schema: ghost-atlas.hypernet.node/v1
+repository: Atlas-Ascend/Atlas-Ascend-JANUS-10-Grand-Challenge
+lifecycle: product
+plane: challenge-proof
+role: hackathon-and-grand-challenge-portfolio
+hypernets: [github, vercel, render, cloud]
+runtime_authority: none
+routing: {authorization: Janus-Prime, io: Crowngrid, discovery: Estate-Service-Catalog-Capability-Registry, transport: Ghost-Atlas-Estate-Service-Mesh-Runtime-Connectivity-Fabric, events: Ghost-Atlas-Estate-Event-Gateway, observability: Ghost-Atlas-Runtime-Observatory, quality: SECA}
