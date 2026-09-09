@@ -1,70 +1,58 @@
 # JANUS-10 Repository Creation Queue
 
-Create these repositories under `Atlas-Ascend` using the exact spelling below. Entry numbers remain canonical even if execution order changes.
+**State: CLOSED — 10 / 10 child repositories exist.**
 
-## Existing — Do Not Recreate
+Reconciled: **2026-09-09 America/Los_Angeles**.
+
+## Canonical Child Repositories
 
 1. `JANUS-Human-Admin-Zero`
-3. `APOLLO-Studio-Operations-Intelligence`
-
-## Create Now
-
 2. `HERMES-Public-Access-Relay`
-4. `ATHENA-PeaceGraph`
-5. `HEPHAESTUS-Agent-Forge`
-6. `THOTH-ARC-Reasoning-Lab`
+3. `APOLLO-Studio-Operations-Intelligence`
+4. `ATHENA-AI-Infrastructure-Command-Plane`
+5. `HEIMDALL-Machine-Governor`
+6. `HESTIA-Hearth-Agentic-Control-Plane`
 7. `ARGUS-FieldVision`
-8. `IRIS-CallRelay`
-9. `THEMIS-Legal-Proof-Engine`
-10. `PLUTUS-x402-Agent-Commerce`
+8. `ARTEMIS-Local-Sovereign-AI`
+9. `VULCAN-Agentic-Engineering-Foundry`
+10. `MAAT-Universal-CaseGraph`
 
-## Recommended Creation Defaults
+## Queue Result
 
-- Owner: `Atlas-Ascend`
-- Initialize: empty repository is acceptable; JANUS-10 will seed it.
-- Visibility: **private while building unless the competition requires public source earlier**. Change only when the rules demand it or at submission lock.
-- README/license/gitignore: may be omitted during GitHub creation because the seed process supplies canonical files.
-- Default branch: `main`.
+No child repository remains in `REPO TO CREATE` state. Repository creation is no longer on the critical path.
 
-## On Child Repo Detection
-
-JANUS-10 should immediately perform this sequence:
+The active campaign pipeline is now:
 
 ```text
-1. verify exact repo identity
-2. re-check current competition rules
-3. create README
-4. create COMPETITION five-file snapshot
-5. create the canonical 16 BUILD_TRUTH files
-6. create SOFTWARE_DESIGN surface
-7. seed source/test/demo/proof directories through real files
-8. commit product-lock baseline
-9. begin implementation against deadline priority
+RUNTIME PROOF
+  → REQUIRED SPONSOR TECHNOLOGY
+  → COMPETITION-SPECIFIC EVALUATION
+  → PUBLIC-SOURCE / JUDGE ACCESS GATE
+  → DEMO VIDEO / PITCH
+  → FINAL RULE REVALIDATION
+  → SUBMISSION RECEIPT
+  → RESULT ARCHIVE
 ```
 
-## Deadline-Driven Build Order After Repo Creation
+## Current Deadline Order
 
 ```text
-P0  APOLLO      Sep 09
-P1  JANUS       Sep 14
-P1  IRIS        Sep 14
-P2  ATHENA      Sep 30
-P2  PLUTUS      Sep 30 / early Oct
-P3  HERMES      Oct 23
-P3  ARGUS       Oct 27
-P3  HEPHAESTUS  Oct 30
-P4  THEMIS      Nov 01
-P4  THOTH       Nov 09
+P0  JANUS      Sep 14 2026 17:00 PDT
+P0  HERMES     Sep 14 2026 23:45 SGT
+P0  ATHENA     Sep 16 2026 18:30 UTC
+P1  MAAT       Sep 24 2026 17:00 PDT
+P1  HEIMDALL   Sep 27 2026 15:00 UTC
+P2  APOLLO     Sep 30 2026
+P3  HESTIA     Oct 23 2026 12:00 PDT
+P3  ARGUS      Oct 26 2026 23:45 PDT
+P3  VULCAN     Oct 30 2026 10:00 PDT
+P3  ARTEMIS    Oct 31 2026 Round 1
 ```
+
+Entry numbering is identity; execution order follows deadline and unresolved external-proof risk.
 
 ## Creation Receipt
 
-For every newly created repo, add its URL to `STATUS_BOARD.md` and record:
-- creation timestamp;
-- initial visibility;
-- initial default branch;
-- first seed commit SHA;
-- rules verification timestamp;
-- current promotion state.
+`REPOSITORY_CREATION_GATE = PASS`
 
-Creating the empty repo is `SEED_PENDING`, not `BUILT`.
+The old proposed names `ATHENA-PeaceGraph`, `HEPHAESTUS-Agent-Forge`, `THOTH-ARC-Reasoning-Lab`, `IRIS-CallRelay`, `THEMIS-Legal-Proof-Engine`, and `PLUTUS-x402-Agent-Commerce` are historical campaign candidates and are superseded by the canonical child-repository list above.
