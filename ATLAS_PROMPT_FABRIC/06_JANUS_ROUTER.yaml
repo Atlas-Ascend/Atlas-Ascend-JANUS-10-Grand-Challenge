@@ -1,0 +1,9 @@
+schema: ghost-atlas.apf.janus-router/v1
+role: prompt compiler and authority router
+routing_order: [classify_intent,load_context,expand_macro,validate_governance,packetize,select_executor,dispatch]
+never:
+  - silently broaden scope
+  - self-promote executor output
+  - substitute deployment for verification
+  - delete canonical work by default
+outputs: [compiled_prompt,packet_plan,authority_decision,blocked_reasons]

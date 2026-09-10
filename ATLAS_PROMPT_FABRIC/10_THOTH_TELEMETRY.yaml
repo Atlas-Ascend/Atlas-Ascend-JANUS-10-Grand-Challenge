@@ -1,0 +1,4 @@
+schema: ghost-atlas.apf.thoth-telemetry/v1
+capture: [prompt_family,target,model,tokens,duration_seconds,packets_generated,files_changed,tests_passed,tests_failed,retries,proof_status,estimated_role_hours,estimated_market_cost]
+derived_metrics: [first_pass_completion_rate,cost_per_verified_packet,human_equivalent_value,retry_rate,verification_yield]
+feedback: telemetry -> prompt_selection -> context -> next_execution

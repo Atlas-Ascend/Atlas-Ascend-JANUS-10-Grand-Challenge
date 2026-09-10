@@ -1,0 +1,7 @@
+schema: ghost-atlas.apf.failure-resume/v1
+on_failure_emit: [failed_stage,failed_assertion,artifact,diagnostic_evidence,repair_packet,resume_point]
+resume_rules:
+  preserve_prior_passes: true
+  rerun_only_affected_gates: true
+  full_regeneration: false
+  require_new_receipt: true

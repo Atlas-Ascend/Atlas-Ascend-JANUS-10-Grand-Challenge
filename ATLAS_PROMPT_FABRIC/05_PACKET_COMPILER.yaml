@@ -1,0 +1,9 @@
+schema: ghost-atlas.apf.packet-compiler/v1
+formula: desired_state - observed_state = execution_packets
+packet_fields: [packet_id,objective,inputs,authority,executor,dependencies,actions,tests,proof,rollback,completion_condition]
+constraints:
+  atomic: true
+  idempotent_preferred: true
+  destructive_default: false
+  explicit_authority_required: true
+  receipt_required: true

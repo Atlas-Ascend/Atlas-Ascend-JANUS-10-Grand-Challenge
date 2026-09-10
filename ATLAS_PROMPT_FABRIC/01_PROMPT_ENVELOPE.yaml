@@ -1,0 +1,19 @@
+schema: ghost-atlas.apf.prompt-envelope/v1
+required: [operation,target,scope,mode,proof]
+defaults:
+  scope: estate
+  mode: patch
+  proof: required
+  destructive: false
+fields:
+  operation: string
+  target: string
+  scope: [repo,system,estate,hypernet]
+  baseline: string
+  context_refs: array
+  constraints: array
+  integrations: array
+  execution_mode: [plan,bounded_execute,full_pipeline]
+  proof: [required,optional]
+  deployment_target: string
+  completion_condition: string

@@ -1,0 +1,13 @@
+schema: ghost-atlas.build-truth.addendum/v1
+id: APF-V1-20260910
+name: ATLAS PROMPT FABRIC
+state: CANDIDATE
+owner_plane: JANUS PRIME
+repository: Atlas-Ascend/Atlas-Ascend-JANUS-10-Grand-Challenge
+mode: patch
+replacement_build: false
+purpose: compile operator intent into governed estate-native command-to-proof execution
+bindings: [Packet-OS,Workforce-Spine,MetaForge,SECA,DevOS,Medusa,ProofGrid,Thoth,CrownGrid,Hypernet]
+verification_required: true
+promotion_gate: [SECA,DevOS,Medusa,ProofGrid]
+truth: files_and_contracts_created_do_not_prove_runtime_wiring

@@ -1,0 +1,25 @@
+schema: ghost-atlas.apf.registry/v1
+primitives:
+  FORENSIC: inspect observed reality before mutation
+  CENSUS: enumerate repos, branches, services, nodes, deployments and truth
+  BUILD_TRUTH: reconcile canonical machine-readable truth
+  BUILD_TRUTH_16: emit standardized sixteen-file truth package
+  SOFTWARE_DESIGN: derive architecture and contracts
+  PRODUCT_SCAFFOLD: generate bounded UI/API/product shell
+  GLOBAL_RESOLVE: resolve target against estate dependency graph
+  ESTATE_INTEGRATE: create tested integration edges
+  PACKETIZE: compile delta into atomic Packet OS units
+  PACKET_STORM: parallelize independent packet lanes
+  ROUTE: JANUS authority and executor selection
+  DISPATCH: Workforce Spine work allocation
+  FORGE: MetaForge bounded implementation
+  VERIFY: SECA and DevOS gate execution
+  SECURITY_REVIEW: Medusa public/private/security review
+  PROVE: ProofGrid evidence and receipt generation
+  SHIP: deploy only verified releasable artifact
+  RESUME_FROM_FAILURE: continue from last failed gate
+  INCIDENT: preserve, diagnose, repair, verify
+  RESEARCH_PIPELINE: question-hypothesis-evidence-falsification pipeline
+  CASE_STUDY: compile proof into demonstrable case study
+  MEASURE: Thoth work/time/economic telemetry
+  CLOSE_LOOP: derive next bounded action from verified output

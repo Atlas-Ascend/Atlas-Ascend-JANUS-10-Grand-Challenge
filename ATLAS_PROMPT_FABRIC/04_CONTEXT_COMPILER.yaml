@@ -1,0 +1,19 @@
+schema: ghost-atlas.apf.context-compiler/v1
+output:
+  - canonical_baseline
+  - target_system
+  - active_campaign
+  - repository_and_head
+  - build_truth_refs
+  - upstream_dependencies
+  - downstream_dependencies
+  - active_services
+  - known_failures
+  - archived_or_superseded_lineages
+  - governance_constraints
+  - deployment_state
+  - proof_requirements
+rules:
+  observed_over_assumed: true
+  contradictions_emit_delta: true
+  missing_truth_blocks_promotion: true

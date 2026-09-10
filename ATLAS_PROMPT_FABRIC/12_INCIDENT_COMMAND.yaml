@@ -1,0 +1,7 @@
+schema: ghost-atlas.apf.incident/v1
+pipeline: [observe,capture_state,classify,preserve_data,blast_radius,hypotheses,non_destructive_tests,repair,verify,prove,thoth_ingest]
+defaults:
+  preserve_first: true
+  destructive: false
+  rollback_required: true
+  resume_from_failure: true
