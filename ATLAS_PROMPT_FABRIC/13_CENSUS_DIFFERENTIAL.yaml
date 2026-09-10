@@ -1,0 +1,4 @@
+schema: ghost-atlas.apf.census-differential/v1
+census: [repos,branches,heads,services,deployments,databases,domains,nodes,running_processes,build_truth,open_packets,failed_packets,duplicates,archives]
+calculation: desired_state - observed_state = bounded_change_set
+output: [observed_state,desired_state,delta,packets,no_change_receipt]

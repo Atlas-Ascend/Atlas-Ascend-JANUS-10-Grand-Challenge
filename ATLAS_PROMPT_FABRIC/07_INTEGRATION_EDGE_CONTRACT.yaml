@@ -1,0 +1,15 @@
+schema: ghost-atlas.apf.integration-edge/v1
+required: [edge_id,source,target,contract,transport,event,failure_policy,healthcheck,test,receipt]
+fields:
+  edge_id: string
+  source: string
+  target: string
+  contract: string
+  transport: string
+  auth: string
+  event: string
+  failure_policy: string
+  healthcheck: string
+  test: string
+  receipt: string
+truth: declared_connection_is_not_verified_runtime_integration

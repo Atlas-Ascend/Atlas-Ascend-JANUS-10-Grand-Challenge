@@ -1,0 +1,7 @@
+schema: ghost-atlas.apf.proof-receipt/v1
+fields: [receipt_id,target,operation,baseline,commit,packets,tests,verification,security,deployment,evidence,started_at,completed_at,status]
+status: [PASS,FAIL,PARTIAL,BLOCKED]
+laws:
+  no_fake_completion: true
+  deployment_not_equal_submission: true
+  proof_class_substitution_denied: true

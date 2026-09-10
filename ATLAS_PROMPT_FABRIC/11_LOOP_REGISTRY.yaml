@@ -1,0 +1,11 @@
+schema: ghost-atlas.apf.loop-registry/v1
+loops:
+  build: [spec,build,test,repair,build]
+  research: [question,hypothesis,evidence,update]
+  deploy: [deploy,observe,diagnose,patch]
+  workforce: [packet,dispatch,work,receipt,next_packet]
+  knowledge: [activity,thoth,synthesis,context,activity]
+  business: [lead,audit,proposal,build,proof,case_study,lead]
+  content: [work,proofgrid,story,publish,audience,opportunity]
+  economic: [work,thoth_measurement,role_equivalent,replacement_cost,roi]
+  hypernet: [node,telemetry,capability,allocation,execution,telemetry]
